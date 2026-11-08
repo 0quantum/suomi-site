@@ -1,0 +1,162 @@
+{
+  "suomi": {
+    "1.9.0": {
+      "uk": [
+        "Новий головний екран і розділ «Ви»: усе важливе — на одному екрані. Пройдіть короткий тур.",
+        "Власні слова: додавайте свої слова, складайте колоди або імпортуйте цілий список.",
+        "Інтенсив: точніша перевірка, пояснення помилок і нові вправи.",
+        "Нагадування тепер приходить приблизно тоді, коли ви зазвичай займаєтеся."
+      ],
+      "en": [
+        "A new Home and You: everything that matters on one screen. Take the short tour.",
+        "Your own words: add words, build your own decks or import a whole list.",
+        "Intensive: fairer checking, clear reasons for mistakes and new exercises.",
+        "Reminders now arrive around the time you usually study."
+      ],
+      "sv": [
+        "En ny startskärm och Du-fliken: allt viktigt på en skärm. Ta den korta rundturen.",
+        "Egna ord: lägg till ord, bygg egna kortlekar eller importera en hel lista.",
+        "Intensivt: rättvisare rättning, förklaringar till fel och nya övningar.",
+        "Påminnelsen kommer nu ungefär när du brukar plugga."
+      ],
+      "et": [
+        "Uus avakuva ja Sina-vaade: kõik oluline ühel ekraanil. Vaata lühitutvustust.",
+        "Oma sõnad: lisa sõnu, koosta oma kaardipakke või impordi terve loend.",
+        "Intensiiv: õiglasem kontroll, vigade selgitused ja uued harjutused.",
+        "Meeldetuletus tuleb nüüd umbes siis, kui sa tavaliselt õpid."
+      ],
+      "ar": [
+        "شاشة رئيسية جديدة وقسم «أنت»: كل ما يهم في شاشة واحدة. خذ الجولة القصيرة.",
+        "كلماتك الخاصة: أضف كلمات، وأنشئ مجموعاتك، أو استورد قائمة كاملة.",
+        "المكثّف: تصحيح أدق، وشرح للأخطاء، وتمارين جديدة.",
+        "يصلك التذكير الآن قرب الوقت الذي تدرس فيه عادةً."
+      ],
+      "de": [
+        "Neuer Startbildschirm und neuer Bereich „Du“: alles Wichtige auf einen Blick. Mach den kurzen Rundgang.",
+        "Eigene Wörter: füge Wörter hinzu, stell eigene Stapel zusammen oder importiere eine ganze Liste.",
+        "Intensiv: fairere Prüfung, Erklärungen zu Fehlern und neue Übungen.",
+        "Die Erinnerung kommt jetzt ungefähr dann, wenn du sonst lernst."
+      ],
+      "pl": [
+        "Nowy ekran główny i sekcja „Ty”: wszystko, co ważne, na jednym ekranie. Zobacz krótki przewodnik.",
+        "Własne słowa: dodawaj słowa, twórz własne talie albo importuj całą listę.",
+        "Intensywny: uczciwsze sprawdzanie, wyjaśnienia błędów i nowe ćwiczenia.",
+        "Przypomnienie przychodzi teraz mniej więcej wtedy, gdy zwykle się uczysz."
+      ],
+      "fa": [
+        "صفحهٔ اصلی و بخش «شما» تازه شده‌اند: هر چیز مهم در یک صفحه. گشت کوتاه را ببینید.",
+        "واژه‌های خودت: واژه اضافه کن، دسته‌های خودت را بساز یا یک فهرست کامل وارد کن.",
+        "فشرده: بررسی دقیق‌تر، توضیح اشتباه‌ها و تمرین‌های تازه.",
+        "یادآور حالا نزدیک همان ساعتی می‌آید که معمولاً درس می‌خوانی."
+      ],
+      "tr": [
+        "Yeni ana ekran ve Sen bölümü: önemli olan her şey tek ekranda. Kısa turu izle.",
+        "Kendi kelimelerin: kelime ekle, kendi destelerini oluştur ya da bütün bir listeyi içe aktar.",
+        "Yoğun mod: daha adil kontrol, hataların açıklaması ve yeni alıştırmalar.",
+        "Hatırlatıcı artık genelde çalıştığın saate yakın gelir."
+      ],
+      "es": [
+        "Nueva pantalla de inicio y sección «Tú»: todo lo importante en una sola pantalla. Haz el recorrido rápido.",
+        "Tus propias palabras: añade palabras, crea tus mazos o importa una lista completa.",
+        "Intensivo: corrección más justa, explicación de los errores y ejercicios nuevos.",
+        "El recordatorio llega ahora cerca de la hora a la que sueles estudiar."
+      ],
+      "esMX": [
+        "Nueva pantalla de inicio y sección «Tú»: todo lo importante en una sola pantalla. Haz el recorrido rápido.",
+        "Tus propias palabras: añade palabras, crea tus mazos o importa una lista completa.",
+        "Intensivo: corrección más justa, explicación de los errores y ejercicios nuevos.",
+        "El recordatorio llega ahora cerca de la hora a la que sueles estudiar."
+      ],
+      "vi": [
+        "Màn hình chính và mục Bạn mới: mọi thứ quan trọng trên một màn hình. Xem phần giới thiệu ngắn.",
+        "Từ của riêng bạn: thêm từ, tạo bộ thẻ riêng hoặc nhập cả một danh sách.",
+        "Học cấp tốc: chấm công bằng hơn, giải thích lỗi sai và bài tập mới.",
+        "Lời nhắc giờ đến vào khoảng thời gian bạn thường học."
+      ],
+      "fr": [
+        "Un nouvel écran d’accueil et une nouvelle section « Vous » : l’essentiel sur un seul écran. Faites la courte visite.",
+        "Vos propres mots : ajoutez des mots, créez vos paquets ou importez une liste entière.",
+        "Intensif : correction plus juste, explication des erreurs et nouveaux exercices.",
+        "Le rappel arrive maintenant vers l’heure où vous étudiez d’habitude."
+      ],
+      "so": [
+        "Shaashad hore iyo qaybta «Adiga» oo cusub: wax kasta oo muhiim ah hal shaashad. Eeg socdaalka gaaban.",
+        "Ereyadaada gaarka ah: ku dar erayo, samee xirmooyinkaaga ama soo geli liis dhan.",
+        "Si degdeg ah: hubin cadaalad badan, sharaxaad khaladaadka iyo layliyo cusub.",
+        "Xasuusintu hadda waxay timaadaa qiyaastii waqtiga aad caadiyan wax barato."
+      ],
+      "ja": [
+        "新しいホームと「あなた」画面：大事なことが1画面にまとまりました。短いツアーをご覧ください。",
+        "自分の単語：単語を追加したり、自分のデッキを作ったり、リストをまとめて取り込んだりできます。",
+        "集中モード：より公平な判定、間違いの理由の説明、新しい練習。",
+        "リマインダーは、いつも学習する時間のころに届くようになりました。"
+      ],
+      "th": [
+        "หน้าหลักและส่วน «คุณ» แบบใหม่: ทุกอย่างที่สำคัญอยู่ในหน้าจอเดียว ลองดูทัวร์สั้น ๆ",
+        "คำศัพท์ของคุณเอง: เพิ่มคำ สร้างชุดการ์ดของคุณ หรือนำเข้าทั้งรายการ",
+        "โหมดเข้มข้น: ตรวจคำตอบยุติธรรมขึ้น อธิบายข้อผิดพลาด และแบบฝึกหัดใหม่",
+        "การแจ้งเตือนจะมาในช่วงเวลาที่คุณมักเรียนเป็นประจำ"
+      ],
+      "sq": [
+        "Ekran kryesor dhe seksion «Ti» të rinj: gjithçka e rëndësishme në një ekran. Shiko turin e shkurtër.",
+        "Fjalët e tua: shto fjalë, krijo paketat e tua ose importo një listë të tërë.",
+        "Intensivi: kontroll më i drejtë, shpjegime për gabimet dhe ushtrime të reja.",
+        "Kujtesa tani vjen afërsisht në orën kur zakonisht mëson."
+      ],
+      "ku": [
+        "Ekrana sereke û beşa «Tu» ya nû: her tiştê girîng li ser ekranekê. Li gera kurt binêre.",
+        "Peyvên te: peyvan zêde bike, desteyên xwe çêke an lîsteyek tevahî bîne hundir.",
+        "Bilez: kontrola dadperwertir, ravekirina şaşiyan û rahênanên nû.",
+        "Bîranîn niha nêzî wê demê tê ku tu bi gelemperî hîn dibî."
+      ],
+      "tl": [
+        "Bagong Home at seksiyong Ikaw: lahat ng mahalaga ay nasa iisang screen. Subukan ang maikling tour.",
+        "Sarili mong mga salita: magdagdag ng salita, gumawa ng sariling deck o mag-import ng buong listahan.",
+        "Intensive: mas patas na pagsuri, paliwanag sa mga mali at mga bagong ehersisyo.",
+        "Dumarating na ngayon ang paalala malapit sa oras na karaniwan kang nag-aaral."
+      ],
+      "zh": [
+        "全新的首页和“我的”页面：重要内容一屏看全。来看看简短导览吧。",
+        "自己的单词：添加单词、建立自己的卡组，或导入整份列表。",
+        "强化模式：判定更公平，讲解错误原因，还有新练习。",
+        "提醒现在会在你平常学习的时间前后送达。"
+      ],
+      "ne": [
+        "नयाँ गृह स्क्रिन र «तपाईं» खण्ड: सबै महत्त्वपूर्ण कुरा एउटै स्क्रिनमा। छोटो परिचय हेर्नुहोस्।",
+        "आफ्नै शब्दहरू: शब्द थप्नुहोस्, आफ्नै डेक बनाउनुहोस् वा पूरै सूची आयात गर्नुहोस्।",
+        "गहन अभ्यास: अझ निष्पक्ष जाँच, गल्तीको कारण र नयाँ अभ्यासहरू।",
+        "रिमाइन्डर अब तपाईं प्रायः पढ्ने समयतिर आउँछ।"
+      ],
+      "bn": [
+        "নতুন হোম স্ক্রিন আর «আপনি» অংশ: দরকারি সবকিছু এক স্ক্রিনে। ছোট পরিচিতিটি দেখে নিন।",
+        "নিজের শব্দ: শব্দ যোগ করুন, নিজের ডেক বানান বা পুরো তালিকা ইমপোর্ট করুন।",
+        "ইনটেনসিভ: আরও ন্যায্য যাচাই, ভুলের ব্যাখ্যা আর নতুন অনুশীলন।",
+        "রিমাইন্ডার এখন আসে আপনি সাধারণত যে সময়ে পড়েন তার কাছাকাছি।"
+      ],
+      "ro": [
+        "Ecran principal și secțiunea „Tu” noi: tot ce contează pe un singur ecran. Fă turul scurt.",
+        "Cuvintele tale: adaugă cuvinte, fă-ți pachetele proprii sau importă o listă întreagă.",
+        "Intensiv: verificare mai corectă, explicații pentru greșeli și exerciții noi.",
+        "Mementoul vine acum cam la ora la care înveți de obicei."
+      ],
+      "hi": [
+        "नई होम स्क्रीन और «आप» सेक्शन: सब कुछ ज़रूरी एक ही स्क्रीन पर। छोटा परिचय देखें।",
+        "अपने शब्द: शब्द जोड़ें, अपने डेक बनाएँ या पूरी सूची इंपोर्ट करें।",
+        "इंटेंसिव: ज़्यादा निष्पक्ष जाँच, गलतियों की वजह और नए अभ्यास।",
+        "रिमाइंडर अब लगभग उसी समय आता है जब आप आमतौर पर पढ़ते हैं।"
+      ],
+      "pt": [
+        "Novo ecrã inicial e nova secção «Tu»: tudo o que importa num só ecrã. Faz a visita guiada rápida.",
+        "As tuas palavras: adiciona palavras, cria os teus baralhos ou importa uma lista inteira.",
+        "Intensivo: correção mais justa, explicação dos erros e exercícios novos.",
+        "O lembrete chega agora perto da hora a que costumas estudar."
+      ],
+      "ptBR": [
+        "Novo ecrã inicial e nova secção «Tu»: tudo o que importa num só ecrã. Faz a visita guiada rápida.",
+        "As tuas palavras: adiciona palavras, cria os teus baralhos ou importa uma lista inteira.",
+        "Intensivo: correção mais justa, explicação dos erros e exercícios novos.",
+        "O lembrete chega agora perto da hora a que costumas estudar."
+      ]
+    }
+  }
+}
